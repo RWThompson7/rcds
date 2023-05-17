@@ -12,7 +12,6 @@ RCDS is a Java web application that utilizes various technologies to create a ro
     Installation
     Usage
     Contributing
-    License
 
 ## Features
 
